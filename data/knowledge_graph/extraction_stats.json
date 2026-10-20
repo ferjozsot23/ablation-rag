@@ -1,0 +1,23 @@
+{
+  "total_entities": 2467,
+  "total_relations": 2112,
+  "entity_types": {
+    "COMPANY": 96,
+    "PRODUCT": 388,
+    "PERIOD": 315,
+    "METRIC": 1048,
+    "EVENT": 620
+  },
+  "relation_types": {
+    "HAS_METRIC": 964,
+    "IN_PERIOD": 435,
+    "HAS_VALUE": 181,
+    "SELLS": 175,
+    "GENERATED": 94,
+    "REPORTED": 67,
+    "HAS_EVENT": 85,
+    "ACQUIRED": 30,
+    "EVENT": 79,
+    "IMPACTED": 2
+  }
+}

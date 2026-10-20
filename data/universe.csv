@@ -1,0 +1,11 @@
+company_id,cik,company_name,ticker,rank,weight_pct,composition_date,composition_source,source_url
+NVDA,0001045810,NVIDIA Corporation,NVDA,1,8.66,2026-10-13,ChartRow (rolled from 2026-06-30 SEC filing),https://chartrow.com/nasdaq-100/companies
+AAPL,0000320193,Apple Inc.,AAPL,2,7.80,2026-10-13,ChartRow (rolled from 2026-06-30 SEC filing),https://chartrow.com/nasdaq-100/companies
+MSFT,0000789019,Microsoft Corporation,MSFT,3,6.31,2026-10-13,ChartRow (rolled from 2026-06-30 SEC filing),https://chartrow.com/nasdaq-100/companies
+GOOGL,0001652044,Alphabet Inc.,GOOGL,4,6.17,2026-10-13,ChartRow (rolled from 2026-06-30 SEC filing),https://chartrow.com/nasdaq-100/companies
+MU,0000723125,Micron Technology Inc.,MU,5,4.62,2026-10-13,ChartRow (rolled from 2026-06-30 SEC filing),https://chartrow.com/nasdaq-100/companies
+AMZN,0001018724,Amazon.com Inc.,AMZN,6,4.31,2026-10-13,ChartRow (rolled from 2026-06-30 SEC filing),https://chartrow.com/nasdaq-100/companies
+AMD,0000002488,Advanced Micro Devices Inc.,AMD,7,4.23,2026-10-13,ChartRow (rolled from 2026-06-30 SEC filing),https://chartrow.com/nasdaq-100/companies
+META,0001326801,Meta Platforms Inc.,META,8,3.53,2026-10-13,ChartRow (rolled from 2026-06-30 SEC filing),https://chartrow.com/nasdaq-100/companies
+TSLA,0001318605,Tesla Inc.,TSLA,9,2.92,2026-10-13,ChartRow (rolled from 2026-06-30 SEC filing),https://chartrow.com/nasdaq-100/companies
+AVGO,0001730168,Broadcom Inc.,AVGO,10,2.65,2026-10-13,ChartRow (rolled from 2026-06-30 SEC filing),https://chartrow.com/nasdaq-100/companies

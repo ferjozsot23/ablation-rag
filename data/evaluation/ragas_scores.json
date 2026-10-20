@@ -1,0 +1,121 @@
+{
+  "total_systems": 5,
+  "systems": {
+    "system_1": {
+      "system_id": 1,
+      "samples": 32,
+      "metrics": {
+        "faithfulness": {
+          "score": 0.9009329514084948,
+          "successful_evals": 32,
+          "total_evals": 32
+        },
+        "context_recall": {
+          "score": 0.321875,
+          "successful_evals": 32,
+          "total_evals": 32
+        },
+        "answer_correctness": {
+          "score": 0.3339931642578788,
+          "successful_evals": 31,
+          "total_evals": 32
+        }
+      },
+      "completed_at": "2026-10-16T12:48:34.473259"
+    },
+    "system_2": {
+      "system_id": 2,
+      "samples": 34,
+      "metrics": {
+        "faithfulness": {
+          "score": 0.9303103498755673,
+          "successful_evals": 33,
+          "total_evals": 34
+        },
+        "context_recall": {
+          "score": 0.34558823529411764,
+          "successful_evals": 34,
+          "total_evals": 34
+        },
+        "answer_correctness": {
+          "score": 0.3729812491726668,
+          "successful_evals": 32,
+          "total_evals": 34
+        }
+      },
+      "completed_at": "2026-10-16T13:15:40.109554"
+    },
+    "system_3": {
+      "system_id": 3,
+      "samples": 35,
+      "metrics": {
+        "faithfulness": {
+          "score": 0.8625606139891855,
+          "successful_evals": 35,
+          "total_evals": 35
+        },
+        "context_recall": {
+          "score": 0.3976190476190476,
+          "successful_evals": 35,
+          "total_evals": 35
+        },
+        "answer_correctness": {
+          "score": 0.29478649209643804,
+          "successful_evals": 32,
+          "total_evals": 35
+        }
+      },
+      "completed_at": "2026-10-16T13:44:19.580852"
+    },
+    "system_4": {
+      "system_id": 4,
+      "samples": 35,
+      "metrics": {
+        "faithfulness": {
+          "score": 0.7616022294698765,
+          "successful_evals": 30,
+          "total_evals": 35
+        },
+        "context_recall": {
+          "score": 0.4576190476190476,
+          "successful_evals": 35,
+          "total_evals": 35
+        },
+        "answer_correctness": {
+          "score": 0.31215602261789405,
+          "successful_evals": 34,
+          "total_evals": 35
+        }
+      },
+      "completed_at": "2026-10-16T14:22:13.853727"
+    },
+    "system_5": {
+      "system_id": 5,
+      "samples": 35,
+      "metrics": {
+        "faithfulness": {
+          "score": 0.4285389827255856,
+          "successful_evals": 33,
+          "total_evals": 35
+        },
+        "context_recall": {
+          "score": 0.19857142857142857,
+          "successful_evals": 35,
+          "total_evals": 35
+        },
+        "answer_correctness": {
+          "score": 0.44141345353554223,
+          "successful_evals": 32,
+          "total_evals": 35
+        }
+      },
+      "completed_at": "2026-10-16T15:02:02.256498"
+    }
+  },
+  "summary": {
+    "faithfulness": 0.776789025493742,
+    "context_recall": 0.3442545518207283,
+    "answer_correctness": 0.351066076336084
+  },
+  "note": "Combined from ragas_detailed_checkpoint.json + answer_correctness_checkpoint.json"
+}

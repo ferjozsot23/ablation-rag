@@ -1,0 +1,37 @@
+# Data and analysis
+pandas==2.3.3
+numpy==2.2.6
+matplotlib==3.10.9
+tiktoken==0.12.0
+tqdm==4.67.3
+
+# SEC ingestion
+requests==2.33.1
+urllib3==2.6.3
+beautifulsoup4==4.14.3
+lxml==6.0.3
+
+# Retrieval
+faiss-cpu==1.15.1
+FlagEmbedding==1.4.2
+sentence-transformers==5.6.0
+
+# Knowledge graph
+networkx==3.6.1
+pyvis==0.3.2
+
+# LLM and agent
+openai==1.109.1
+langchain==1.4.6
+langchain-core==1.6.10
+langchain-openai==1.1.9
+langgraph==1.2.15
+python-dotenv==1.0.1
+
+# Evaluation
+ragas==0.4.3
+datasets==5.0.0
+
+# Notebook
+jupyter==1.1.1
+nbformat==5.10.4

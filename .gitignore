@@ -1,0 +1,37 @@
+# Secrets and local config
+.env
+.claude/
+
+# Local archive (internal notes, debug scripts, old results)
+_archive/
+
+# Large or regenerable data
+data/raw/
+data/processed/
+data/indexes/
+data/embeddings/
+data/knowledge_graph/graph_visualization.html
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Runtime logs
+logs/
+
+# Rebuilt from entities.jsonl + relations.jsonl by graph_builder
+data/knowledge_graph/knowledge_graph.pkl
